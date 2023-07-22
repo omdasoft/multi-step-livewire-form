@@ -1,0 +1,33 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('boards', function (Blueprint $table) {
+            $table->id();
+            $table->foreignId('dr_profile_id')
+                ->references('id')->on('dr_profiles')
+                ->cascadeOnDelete();
+            $table->boolean('board_question')->nullable();
+            $table->bigInteger('board_type_id')->nullable()->references('id')->on('board_types');
+            $table->longText('board_scan')->nullable();
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('boards');
+    }
+};

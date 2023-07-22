@@ -1,0 +1,867 @@
+[
+ {
+   "name_en": "Algeria - college of Literature",
+   "name_ar": "الجزائر - جامعة الجيلالي اليابس",
+   "country_id": 4
+ },
+ {
+   "name_en": "Algeria - University of Oran",
+   "name_ar": "الجزائر - جامعة وهران",
+   "country_id": 4
+ },
+ {
+   "name_en": "Algeria-Algeria University",
+   "name_ar": "الجزائر-جامعة الجزائر",
+   "country_id": 4
+ },
+ {
+   "name_en": "Algeria-Badji Mokhtar University",
+   "name_ar": "الجزائر-جامعة باجي مختار",
+   "country_id": 4
+ },
+ {
+   "name_en": "Algeria-Constantine University",
+   "name_ar": "الجزائر-جامعة قسنطينة",
+   "country_id": 4
+ },
+ {
+   "name_en": "Algeria-Ferhat Abbas University",
+   "name_ar": "الجزائر-جامعة فرحات عباس / سطيف",
+   "country_id": 4
+ },
+ {
+   "name_en": "Algeria-University El Hadj lakhdar Batna",
+   "name_ar": "الجزائر-جامعة الحاج لخض",
+   "country_id": 4
+ },
+ {
+   "name_en": "belarusian - belarusian state university",
+   "name_ar": "بيلاروسيا - جامعة ولاية بيلاروسيا",
+   "country_id": 21
+ },
+ {
+   "name_en": "Bulgaria - Trakia University",
+   "name_ar": "بلغاريا - جامعة تراكية",
+   "country_id": 34
+ },
+ {
+   "name_en": "Bulgaria - Universities in Varna",
+   "name_ar": "بلغاريا - جامعات في فارنا",
+   "country_id": 34
+ },
+ {
+   "name_en": "Canada - University of Windsor",
+   "name_ar": "كندا - جامعة وندسور",
+   "country_id": 39
+ },
+ {
+   "name_en": "China - Hainan Medical University",
+   "name_ar": "الصين - جامعة هاينان الطبية",
+   "country_id": 45
+ },
+ {
+   "name_en": "China - Nanchang University",
+   "name_ar": "الصين - جامعة نانتشانغ",
+   "country_id": 45
+ },
+ {
+   "name_en": "China - Xiamen University",
+   "name_ar": "الصين - جامعة شيامن",
+   "country_id": 45
+ },
+ {
+   "name_en": "Egypt - Ain Shams University",
+   "name_ar": "مصر - جامعة عين شمس",
+   "country_id": 65
+ },
+ {
+   "name_en": "Egypt - Alexandria University",
+   "name_ar": "مصر - جامعة الإسكندرية",
+   "country_id": 65
+ },
+ {
+   "name_en": "Egypt - Banha university",
+   "name_ar": "مصر - جامعة بنها",
+   "country_id": 65
+ },
+ {
+   "name_en": "Egypt - Cairo University",
+   "name_ar": "مصر - جامعة القاهره",
+   "country_id": 65
+ },
+ {
+   "name_en": "Egypt - Kasralainy University",
+   "name_ar": "مصر - جامعة قصر العين",
+   "country_id": 65
+ },
+ {
+   "name_en": "Egypt - MUST-Misr University for Science & Technology",
+   "name_ar": "مصر - جامعة مصر للعلوم و التكنلوجيا",
+   "country_id": 65
+ },
+ {
+   "name_en": "Egypt - October 6 University",
+   "name_ar": "مصر - جامعة 6 أكتوبر",
+   "country_id": 65
+ },
+ {
+   "name_en": "Egypt - Tanta University",
+   "name_ar": "مصر - جامعة طنطا",
+   "country_id": 65
+ },
+ {
+   "name_en": "Egypt - Zagazig University",
+   "name_ar": "مصر - جامعة الزقازيق",
+   "country_id": 65
+ },
+ {
+   "name_en": "Greece - Aristotle University",
+   "name_ar": "اليونان - جامعة أرسطو",
+   "country_id": 85
+ },
+ {
+   "name_en": "Greece - National and Kapodistrian University of Athens",
+   "name_ar": "اليونان - جامعة أثينا",
+   "country_id": 85
+ },
+ {
+   "name_en": "India - University of Kashmir",
+   "name_ar": "الهند - جامعة كشمير",
+   "country_id": 101
+ },
+ {
+   "name_en": "Iraq - AL-RAFIDAIN University College",
+   "name_ar": "العراق - كلية الرافدين الجامعة",
+   "country_id": 104
+ },
+ {
+   "name_en": "Iraq - Hawler Medical University (HMU)",
+   "name_ar": "العراق - جامعة جامعة هولير الطبيه",
+   "country_id": 104
+ },
+ {
+   "name_en": "Iraq - Mustansiriyah University",
+   "name_ar": "العراق - جامعة المستنصرية",
+   "country_id": 104
+ },
+ {
+   "name_en": "Iraq - Ninevah Medical college",
+   "name_ar": "العراق - كلية نينوى الطبية",
+   "country_id": 104
+ },
+ {
+   "name_en": "Iraq - Tikrit University",
+   "name_ar": "العراق - جامعة تكريت",
+   "country_id": 106
+ },
+ {
+   "name_en": "Iraq - University Of Anbar",
+   "name_ar": "العراق - جامعة الأنبار",
+   "country_id": 104
+ },
+ {
+   "name_en": "Iraq - University of Babylon",
+   "name_ar": "العراق - جامعة بابل",
+   "country_id": 104
+ },
+ {
+   "name_en": "Iraq - University of Baghdad",
+   "name_ar": "العراق - جامعة بغداد",
+   "country_id": 104
+ },
+ {
+   "name_en": "Iraq - University of Basrah",
+   "name_ar": "العراق - جامعة البصرة",
+   "country_id": 104
+ },
+ {
+   "name_en": "Iraq - University of Kufa",
+   "name_ar": "العراق - جامعة الكوفة",
+   "country_id": 104
+ },
+ {
+   "name_en": "Iraq - University of Mosul",
+   "name_ar": "العراق - جامعة الموصل",
+   "country_id": 104
+ },
+ {
+   "name_en": "Iraq - University of Sulaymaniyah",
+   "name_ar": "العراق - جامعة السليمانية",
+   "country_id": 104
+ },
+ {
+   "name_en": "Iraq - University of Tikrit",
+   "name_ar": "العراق - جامعة تكريت",
+   "country_id": 104
+ },
+ {
+   "name_en": "Jordan-Al-yarmouk University",
+   "name_ar": "الأردن-جامعة اليرموك",
+   "country_id": 111
+ },
+ {
+   "name_en": "Jordan-Balqa Applied University",
+   "name_ar": "الأردن-جامعة البلقاء التطبيقية",
+   "country_id": 111
+ },
+ {
+   "name_en": "Jordan-Jordan University of Science and Technology",
+   "name_ar": "الأردن-جامعة العلوم والتكنولوجيا",
+   "country_id": 111
+ },
+ {
+   "name_en": "Jordan-Mutah University",
+   "name_ar": "الأردن-جامعة مؤته",
+   "country_id": 111
+ },
+ {
+   "name_en": "Jordan-The Hashemite University",
+   "name_ar": "الأردن-الجامعة الهاشمية",
+   "country_id": 111
+ },
+ {
+   "name_en": "Jordan-The University of Jordan",
+   "name_ar": "الأردن-الجامعة الأردنية",
+   "country_id": 111
+ },
+ {
+   "name_en": "Kazakhstan - Al-Farabi Kazakh National University",
+   "name_ar": "كازاخستان - جامعة الوطنية الكزخية",
+   "country_id": 112
+ },
+ {
+   "name_en": "Kazakhstan - Astana Medical University",
+   "name_ar": "كازاخستان - جامعة أستانا الطبية",
+   "country_id": 112
+ },
+ {
+   "name_en": "Kazakhstan - Kazakh National Medical University",
+   "name_ar": "كازاخستان - جامعة كازاخستان الطبية",
+   "country_id": 112
+ },
+ {
+   "name_en": "Kuwait - Kuwait University",
+   "name_ar": "الكويت - جامعة الكويت",
+   "country_id": 117
+ },
+ {
+   "name_en": "Libya - Al - Marqab University",
+   "name_ar": "ليبيا - جامعة المرقب",
+   "country_id": 124
+ },
+ {
+   "name_en": "Libya - Al Jabal Al Gharbi University",
+   "name_ar": "ليبيا - جامعة الجبل الغربي",
+   "country_id": 124
+ },
+ {
+   "name_en": "Libya - Benghazi University",
+   "name_ar": "ليبيا - جامعة بنغازي",
+   "country_id": 124
+ },
+ {
+   "name_en": "Libya - Misurata University",
+   "name_ar": "ليبيا جامعة مصراته",
+   "country_id": 124
+ },
+ {
+   "name_en": "Libya - Sabha University",
+   "name_ar": "جامعة - سبها",
+   "country_id": 124
+ },
+ {
+   "name_en": "Libya - University Of Benghazi",
+   "name_ar": "ليبيا - جامعة بنغازي",
+   "country_id": 124
+ },
+ {
+   "name_en": "Libya - University of Omar Mukhtar",
+   "name_ar": "ليبيا - جامعة عمر المختار",
+   "country_id": 124
+ },
+ {
+   "name_en": "Libya - University of Tripoli",
+   "name_ar": "ليبيا - جامعة طرابلس",
+   "country_id": 124
+ },
+ {
+   "name_en": "Libya - Zawya University",
+   "name_ar": "ليبيا - جامعة الزاوية",
+   "country_id": 124
+ },
+ {
+   "name_en": "Pakistan - Bahria University",
+   "name_ar": "الباكستان - جامعة بحري",
+   "country_id": 167
+ },
+ {
+   "name_en": "Pakistan - Dow University of Health Sciences",
+   "name_ar": "باكستان - جامعة داو للعلوم الصحية",
+   "country_id": 167
+ },
+ {
+   "name_en": "Pakistan - Khyber Medical University",
+   "name_ar": "باكستان - جامعة خيبر الطبية",
+   "country_id": 167
+ },
+ {
+   "name_en": "Pakistan - Liaquat University of Medical & Health Sciences (LUMHS)",
+   "name_ar": "باكستان - جامعة لياقت للعلوم الطبية والصحية",
+   "country_id": 167
+ },
+ {
+   "name_en": "Pakistan - University of Balochistan",
+   "name_ar": "باكستان - جامعة بالوشستان",
+   "country_id": 167
+ },
+ {
+   "name_en": "Pakistan - University of Health Sciences Lahore",
+   "name_ar": "باكستان - جامعة العلوم الصحية لاهور",
+   "country_id": 167
+ },
+ {
+   "name_en": "Pakistan - University of Karachi",
+   "name_ar": "باكستان - جامعة كراتشي",
+   "country_id": 167
+ },
+ {
+   "name_en": "Pakistan - University of the Punjab",
+   "name_ar": "الباكستان - جامعة البنجان",
+   "country_id": 167
+ },
+ {
+   "name_en": "Palestinian - Al-Quds University",
+   "name_ar": "فلسطين - جامعة القدس",
+   "country_id": 169
+ },
+ {
+   "name_en": "Palestinian - An-Najah National University",
+   "name_ar": "فلسطين - جامعة النجاح الوطنية",
+   "country_id": 169
+ },
+ {
+   "name_en": "Palestinian - Islamic University of Gaza",
+   "name_ar": "فلسطين - الجامعة الاسلامية",
+   "country_id": 169
+ },
+ {
+   "name_en": "Poland - Medical University of Warsaw",
+   "name_ar": "بولندا - جامعة وارسو الطبية",
+   "country_id": 176
+ },
+ {
+   "name_en": "Poland - Medyczny University",
+   "name_ar": "بولندا - الجامعة الطبية",
+   "country_id": 176
+ },
+ {
+   "name_en": "Romania - Alexandru Ioan Cuza” University of Iași",
+   "name_ar": "رومانيا - جامعة أليكساندرو إيوان كوزا",
+   "country_id": 181
+ },
+ {
+   "name_en": "Romania - Carol Davila University of Medicine and Pharmacy",
+   "name_ar": "رومانيا - جامعة كارول دافيلا للطب والصيدلة",
+   "country_id": 181
+ },
+ {
+   "name_en": "Romania - Cluj Universities",
+   "name_ar": "رومانيا - جامعة كلوج",
+   "country_id": 181
+ },
+ {
+   "name_en": "Romania - Hațieganu University of Medicine and Pharmacy",
+   "name_ar": "رومانيا - جامعة هاييغانو للطب والصيدلة",
+   "country_id": 181
+ },
+ {
+   "name_en": "Romania - Ovidius University",
+   "name_ar": "رومانيا - جامعة أوفيديوس",
+   "country_id": 181
+ },
+ {
+   "name_en": "Romania - Popa University of Medicine and Pharmacy",
+   "name_ar": "رومانيا - جامعة بوبا للطب والصيدلة",
+   "country_id": 181
+ },
+ {
+   "name_en": "Romania - Titu Maiorescu University",
+   "name_ar": "رومانيا - جامعة تيتو مايوريسكو",
+   "country_id": 181
+ },
+ {
+   "name_en": "Romania - Transilvania University",
+   "name_ar": "رومانيا - جامعة ترانسيلفانيا",
+   "country_id": 181
+ },
+ {
+   "name_en": "Romania - UNIVERSITATEA DE MEDICINA SI FARMACIE \"CAROL DAVILA\" DIN BUCURESTI",
+   "name_ar": "رومانيا - جامعة الطب والصيدلة \"كارول دافيلا\" ، بوشارست",
+   "country_id": 181
+ },
+ {
+   "name_en": "Romania - University of Craiova",
+   "name_ar": "رومانيا - جامعة كرايوفا",
+   "country_id": 181
+ },
+ {
+   "name_en": "Romania - Yash University",
+   "name_ar": "رومانيا - جامعة ياش",
+   "country_id": 181
+ },
+ {
+   "name_en": "Russia - Belarusian State Medical University",
+   "name_ar": "روسيا - الجامعة الطبية الحكومية البيلاروسية",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Chuvash State University",
+   "name_ar": "روسيا - جامعة ولاية تشفاش",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Crimea Federal University",
+   "name_ar": "روسيا - جامعة القرم الاتحادية",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Kharkivsʹkyy Natsionalʹnyy Medychnyy Universytet",
+   "name_ar": "روسيا- جامعة خاركوف الطبية الوطنية",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Kuban State University",
+   "name_ar": "روسيا- جامعة ولاية كوبان",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Kursk State Medical University",
+   "name_ar": "روسيا- جامعة ولاية كورسك الطبية ",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Main - First Moscow State Medical University",
+   "name_ar": "روسيا- جامعة ولاية موسكو الأولى الطبية",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Moscow State Dental University on behalf of Ivdakimo",
+   "name_ar": "روسيا-  جامعة موسكو لطب الأسنان بالنيابة عن ايفداكيمو",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - North Ossetian State University",
+   "name_ar": "روسيا- جامعة ولاية اوسيتيا الشمالية",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Northern Ossetian State Academy of Medicine",
+   "name_ar": "روسيا- أكاديمية ولاية أوسيتيا الشمالية للطب",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Penza State University",
+   "name_ar": "روسيا- جامعة ولاية بينزا",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Peoples' Friendship University of Russia",
+   "name_ar": "روسيا- جامعة الصداقة بين الشعوب في روسيا",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Rostov State Medical University",
+   "name_ar": "روسيا- جامعة ولاية روستوف الطبية ",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Saint Petersburg State University",
+   "name_ar": "روسيا- جامعة ولاية سانت بطرسبرغ",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Smolensk State Medical University",
+   "name_ar": "روسيا- جامعة ولاية سمولينسك الطبية",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - St Petersburg State Medical Academy University",
+   "name_ar": "روسيا- جامعة ولاية سان بطرسبرج الأكاديمية الطبية",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Tver State Medical Academy",
+   "name_ar": "روسيا- أكاديمية ولاية تفير الطبية",
+   "country_id": 182
+ },
+ {
+   "name_en": "Russia - Volgograd State University",
+   "name_ar": "روسيا- جامعة ولاية فولغوغراد",
+   "country_id": 182
+ },
+ {
+   "name_en": "Saudi Arabia - Al Qussaim university",
+   "name_ar": "السعودية - جامعة القصيم",
+   "country_id": 194
+ },
+ {
+   "name_en": "Saudi Arabia - Batterjee Medical College",
+   "name_ar": "السعودية - كلية البترجي الطبيه",
+   "country_id": 194
+ },
+ {
+   "name_en": "Saudi Arabia - Dammam University",
+   "name_ar": "السعودية - جامعة الدمام",
+   "country_id": 194
+ },
+ {
+   "name_en": "Saudi Arabia - Faculty of Ibn Sina",
+   "name_ar": "السعودية - كلية ابن سينا",
+   "country_id": 194
+ },
+ {
+   "name_en": "Saudi Arabia - Farabi National Colleges",
+   "name_ar": "السعودية - كليات الفارابي",
+   "country_id": 194
+ },
+ {
+   "name_en": "Saudi Arabia - Jazan University",
+   "name_ar": "السعودية - جامعة جازان",
+   "country_id": 194
+ },
+ {
+   "name_en": "Saudi Arabia - King Abdulaziz University",
+   "name_ar": "السعودية - جامعة الملك عبد العزيز",
+   "country_id": 194
+ },
+ {
+   "name_en": "Saudi Arabia - King Khalid University",
+   "name_ar": "السعوديه - جامعة الملك خالد",
+   "country_id": 194
+ },
+ {
+   "name_en": "Saudi Arabia - King Saud University",
+   "name_ar": "السعوديه - جامعة الملك سعود",
+   "country_id": 194
+ },
+ {
+   "name_en": "Saudi Arabia - TAIBAH UNIVERSITY",
+   "name_ar": "السعوديه - جامعة طيبة",
+   "country_id": 194
+ },
+ {
+   "name_en": "Saudi Arabia - Umm Al Qura University",
+   "name_ar": "السعوديه - جامعة ام القرى",
+   "country_id": 194
+ },
+ {
+   "name_en": "Saudi Arabia - University of Tabuk",
+   "name_ar": "السعودية - جامعة تبوك",
+   "country_id": 194
+ },
+ {
+   "name_en": "Saudi Arabia-Ibn Sina National College",
+   "name_ar": "السعودية - كلية ابن سينا الأهلية",
+   "country_id": 194
+ },
+ {
+   "name_en": "Saudi Arabia-King Faisal University",
+   "name_ar": "السعودية - جامعة الملك فيصل",
+   "country_id": 194
+ },
+ {
+   "name_en": "Saudi Arabia-Saudi Arabia University",
+   "name_ar": "السعودية-جامعة السعودية",
+   "country_id": 194
+ },
+ {
+   "name_en": "Sudan - Al-Jazeera University",
+   "name_ar": "السودان - جامعة الجزيرة",
+   "country_id": 206
+ },
+ {
+   "name_en": "Sudan - Alzaiem Alazhari University",
+   "name_ar": "السودان - جامعة الزعيم الأزهري",
+   "country_id": 206
+ },
+ {
+   "name_en": "Sudan - International University of Africa",
+   "name_ar": "السودان - جامعة افريقيا العالمية",
+   "country_id": 206
+ },
+ {
+   "name_en": "Sudan - Neelain University",
+   "name_ar": "السودان - جامعة النيلين",
+   "country_id": 206
+ },
+ {
+   "name_en": "Sudan - Nile Valley University",
+   "name_ar": "السودان - جامعة وادي النيل",
+   "country_id": 206
+ },
+ {
+   "name_en": "Sudan - Omdurman Islamic University",
+   "name_ar": "السودان - جامعة أم درمان الاسلامية",
+   "country_id": 206
+ },
+ {
+   "name_en": "Sudan - Red Sea University",
+   "name_ar": "السودان - جامعة البحر الأحمر",
+   "country_id": 206
+ },
+ {
+   "name_en": "Sudan - University of Gadarif",
+   "name_ar": "السودان - جامعة القضارف",
+   "country_id": 206
+ },
+ {
+   "name_en": "Sudan - University of Juba",
+   "name_ar": "السودان - جامعة جوبا",
+   "country_id": 206
+ },
+ {
+   "name_en": "Sudan - University of Khartoum",
+   "name_ar": "السودان - جامعة الخرطوم",
+   "country_id": 206
+ },
+ {
+   "name_en": "Sudan - University of Medical Sciences and Technology",
+   "name_ar": "السودان - جامعة العلوم الطبية والتكنولوجيا",
+   "country_id": 206
+ },
+ {
+   "name_en": "Syria - Al -Kalamoon University",
+   "name_ar": "سوريا - جامعة القلمون",
+   "country_id": 215
+ },
+ {
+   "name_en": "Syria - Al-Baath University",
+   "name_ar": "سوريا - جامعة البعث",
+   "country_id": 215
+ },
+ {
+   "name_en": "Syria - Aleppo University",
+   "name_ar": "سوريا - جامعة حلب",
+   "country_id": 215
+ },
+ {
+   "name_en": "Syria - Damascus University",
+   "name_ar": "سوريا - جامعة دمشق",
+   "country_id": 215
+ },
+ {
+   "name_en": "Syria - Syrian International University for Science and Technology",
+   "name_ar": "سوريا - الجامعة السورية الدولية الخاصة",
+   "country_id": 215
+ },
+ {
+   "name_en": "Syria - Tishreen University",
+   "name_ar": "سوريا - جامعة تشرين",
+   "country_id": 215
+ },
+ {
+   "name_en": "Turkey - Bursa Uludağ University",
+   "name_ar": "تركيا- جامعة بورصا أولوداغ",
+   "country_id": 229
+ },
+ {
+   "name_en": "Turkey - Ege University",
+   "name_ar": "تركيا - جامعة إيجة",
+   "country_id": 225
+ },
+ {
+   "name_en": "Turkey - Gazi University",
+   "name_ar": "تركيا- جامعة غازي",
+   "country_id": 225
+ },
+ {
+   "name_en": "Turkey - Istanbul University",
+   "name_ar": "تركيا- جامعة اسطنبول",
+   "country_id": 225
+ },
+ {
+   "name_en": "Turkey - Marmara University",
+   "name_ar": "تركيا- جامعة مرمرة",
+   "country_id": 225
+ },
+ {
+   "name_en": "Turkey - Ondokuz Mayis University",
+   "name_ar": "تركيا- جامعة اوندوكوز مايز",
+   "country_id": 225
+ },
+ {
+   "name_en": "Turkey - Selçuk University",
+   "name_ar": "تركيا - جامعة سلجوق",
+   "country_id": 225
+ },
+ {
+   "name_en": "Turkey - Uludag University",
+   "name_ar": "تركيا- جامعة أولوداغ",
+   "country_id": 225
+ },
+ {
+   "name_en": "Ukraine -  ivano-frankivsk national medical university",
+   "name_ar": "أوكرانيا - جامعة ايفانو فرانكيفسك الطبية الوطنية",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine -  Vinnitsa National Medical University",
+   "name_ar": "اوكرانيا - الجامعة الوطنية الطبية في فينيتسا",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine -  Voronezh State Medical University",
+   "name_ar": "أوكرانيا - جامعة فورونيج الطبية الحكومية",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine - Bogomolets National Medical University",
+   "name_ar": "اوكرانيا - جامعة بوغوموليتس الطبية الوطنية",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine - BUKOVINA MEDICAL STATE UNIVERSITY",
+   "name_ar": "أوكرانيا - جامعة بوكوفينا الطبية الحكومية",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine - Dnipropetrovsk Medical Academy",
+   "name_ar": "أوكرانيا - أكاديمية دنيبروبتروفسك الطبية",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine - Donetsk National Medical University",
+   "name_ar": "أوكرانيا - جامعة دونيتسك الطبية الوطنية",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine - Ivano-Frankivsk National Medical University",
+   "name_ar": "أوكرانيا - جامعة ايفانو فرانكوفسك الوطنية الطبية",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine - Kharkov National Medical University",
+   "name_ar": "أوكرانيا - جامعة خاركوف الطبية الوطنية",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine - National Pirogov Memorial Medical University ,Vinnytsya",
+   "name_ar": "أوكرانيا - جامعة بيروجوف الوطنية الطبية التذكارية ، فينيتسيا",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine - Odessa National Medical University",
+   "name_ar": "أوكرانيا - جامعة أوديسا الطبية الوطنية",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine - Sumy State University",
+   "name_ar": "أوكرانيا - جامعة ولاية سومي",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine - Ternopil State Medical University",
+   "name_ar": "أوكرانيا - جامعة ترنوبل الطبية الحكومية",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine - Ukrainian Medical Stomatological Academy",
+   "name_ar": "أوكرانيا - الأكاديمية الطبية الأوكرانية لطب الأسنان",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine - V. N. Karazin Kharkiv National University",
+   "name_ar": "أوكرانيا - جامعة كارازين خاركوف الوطنية",
+   "country_id": 230
+ },
+ {
+   "name_en": "Ukraine - Zaporozhye State Medical University",
+   "name_ar": "أوكرانيا - جامعة زابوروجي الطبية الحكومية",
+   "country_id": 230
+ },
+ {
+   "name_en": "United Arab Emirates - Ajman University",
+   "name_ar": "الإمارات العربية المتحدة - جامعة عجمان",
+   "country_id": 231
+ },
+ {
+   "name_en": "United Arab Emirates - Dubai Medical College - DMC",
+   "name_ar": "الإمارات العربية المتحدة - كلية دبي الطبية للبنات",
+   "country_id": 231
+ },
+ {
+   "name_en": "United Arab Emirates - Ras al-Khaimah Medical and Health Sciences University",
+   "name_ar": "الإمارات العربية المتحدة - جامعة راس الخيمه للطب والعلوم الصحية",
+   "country_id": 231
+ },
+ {
+   "name_en": "United Arab Emirates - United Arab Emirates University",
+   "name_ar": "الإمارات العربية المتحدة - جامعة الامارات العربية المتحدة",
+   "country_id": 231
+ },
+ {
+   "name_en": "United Arab Emirates - University of Sharjah",
+   "name_ar": "الإمارات العربية المتحده - جامعة الشارقة",
+   "country_id": 231
+ },
+ {
+   "name_en": "United Arab Emirates-Dubai Medical College",
+   "name_ar": "الإمارات-كلية دبي الطبية للبنات",
+   "country_id": 231
+ },
+ {
+   "name_en": "United Arab Emirates-Gulf Medical University",
+   "name_ar": "الإمارات-جامعة الخليج الطبية",
+   "country_id": 231
+ },
+ {
+   "name_en": "United Arab Emirates-University of Sharjah",
+   "name_ar": "الإمارات-جامعة الشارقة",
+   "country_id": 231
+ },
+ {
+   "name_en": "Yemen - Hadramou University",
+   "name_ar": "اليمن - جامعة حضرموت",
+   "country_id": 245
+ },
+ {
+   "name_en": "Yemen - Sana'a University",
+   "name_ar": "اليمن - جامعة صنعاء",
+   "country_id": 245
+ },
+ {
+   "name_en": "Yemen - Taiz University",
+   "name_ar": "اليمن - جامعة تعز",
+   "country_id": 245
+ },
+ {
+   "name_en": "Yemen - University of Aden",
+   "name_ar": "اليمن - جامعة عدن",
+   "country_id": 245
+ },
+ {
+   "name_en": "Yemen - University of Dhamar",
+   "name_ar": "اليمن - جامعة ذمار",
+   "country_id": 245
+ },
+ {
+   "name_en": "Yemen - University of Science and Technology, Yemen USTY",
+   "name_ar": "اليمن - جامعة العلوم والتكنولوجيا",
+   "country_id": 245
+ },
+ {
+   "name_en": "أوكرانيا - أكاديمية دنيبروبتروفسك الطبية الحكومية",
+   "name_ar": "أوكرانيا - أكاديمية دنيبروبتروفسك الطبية الحكومية",
+   "country_id": 230
+ },
+ {
+   "name_en": "أوكرانيا - جامعة القرم الطبية",
+   "name_ar": "أوكرانيا - جامعة القرم الطبية",
+   "country_id": 230
+ },
+ {
+   "name_en": "أوكرانيا - جامعة لفيف الطبية الوطنية",
+   "name_ar": "أوكرانيا - جامعة لفيف الطبية الوطنية",
+   "country_id": 230
+ }
+]

@@ -1,0 +1,47 @@
+.sidebar {
+  height: 100vh;
+  transition: width 0.2s;
+  background: #cd5506;
+}
+
+.sidebar .user {
+  align-items: center;
+  padding: 10px 5px;
+}
+
+.sidebar .user h5 {
+  color: #fff;
+}
+
+.sidebar .user .profile-image {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.sidebar .user .profile-image img {
+  width: 50px;
+  border-radius: 50%;
+}
+
+.sidebar ul {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.sidebar ul li {
+  list-style: none;
+}
+
+.sidebar ul li a {
+  color: #000;
+  display: block;
+  padding: 18px;
+  width: 100%;
+  text-decoration: none;
+  text-align: center;
+  font-size: 14px;
+}
+
+.sidebar ul li a.active {
+  background: #d0d0d0;
+}

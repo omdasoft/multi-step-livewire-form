@@ -39,6 +39,7 @@ class HighSchool extends Component
         $this->removeUploadedFile($path);
         $this->filePath = null;
         $this->iteration++;
+        $this->dispatchBrowserEvent('file_deleted', ['message' => 'the file successfully deleted!']);
     }
 
     public function updatedFile()
@@ -65,12 +66,16 @@ class HighSchool extends Component
     
     public function store()
     {
+        if ($this->isCompleted) {
+            return redirect()->route('doctor.profile.higher-education');
+        }
         $this->validate();
         $this->highSchool->dr_profile_id = $this->drProfile->id;
         $this->highSchool->file = $this->filePath;
         $this->highSchool->save();
         $this->resetFields();
         $this->dispatchBrowserEvent('created', ['message' => 'High School Created Successfully!']);
+        return redirect()->route('doctor.profile.higher-education');
     }
 
     public function rules()

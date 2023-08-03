@@ -99,9 +99,9 @@ class Profile extends Component
 
     public function store()
     {
-        // if($this->isCompleted) {
-        //     return redirect()->route('doctor.profile.high-school');
-        // }
+        if($this->isCompleted) {
+            return redirect()->route('doctor.profile.high-school');
+        }
 
         $this->validate();
         $this->drProfile->user_id = $this->user->id;
@@ -114,8 +114,7 @@ class Profile extends Component
         $this->isCompleted = true;
         $this->resetFields();
         $this->dispatchBrowserEvent('created', ['message' => 'High School Created Successfully!']);
-
-        //return redirect()->route('doctor.profile.high-school');
+        return redirect()->route('doctor.profile.high-school');
         //session()->flash('success','Profile Saved Successfully!!');
         //->with('success', 'Profile Sussessfully Saved!');
         //$this->mount();

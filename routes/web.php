@@ -6,6 +6,7 @@ use App\Http\Controllers\Doctor\FileController;
 use App\Http\Controllers\Admin\AdminController;
 use App\Http\Livewire\Doctor\Profile;
 use App\Http\Livewire\Doctor\HighSchool;
+use App\Http\Livewire\Doctor\HigherEducation;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -29,6 +30,7 @@ Route::middleware('auth')->prefix('doctor')->group(function() {
     Route::get('/dashboard', [DoctorController::class, 'index'])->name('doctor.dashbaord');
     Route::get('/profile', Profile::class)->name('doctor.profile');
     Route::get('/profile/high-school', HighSchool::class)->name('doctor.profile.high-school');
+    Route::get('/profile/higher-education', HigherEducation::class)->name('doctor.profile.higher-education');
 
     // Files Controller
     Route::get('/files/download', [FileController::class, 'download'])->name('files.download');

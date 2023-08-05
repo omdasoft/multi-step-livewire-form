@@ -60,6 +60,6 @@ class DrProfile extends Model
     const TABS = [
         'profile' => 'Personal Information',
         'high-school' => 'High School',
-        //'higher-education' => 'Higher Education',
+        'internship' => 'Internship',
     ];
 }

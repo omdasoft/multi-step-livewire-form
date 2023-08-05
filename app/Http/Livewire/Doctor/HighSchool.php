@@ -67,7 +67,7 @@ class HighSchool extends Component
     public function store()
     {
         if ($this->isCompleted) {
-            return redirect()->route('doctor.profile.higher-education');
+            return redirect()->route('doctor.profile.internship');
         }
         $this->validate();
         $this->highSchool->dr_profile_id = $this->drProfile->id;
@@ -75,7 +75,7 @@ class HighSchool extends Component
         $this->highSchool->save();
         $this->resetFields();
         $this->dispatchBrowserEvent('created', ['message' => 'High School Created Successfully!']);
-        return redirect()->route('doctor.profile.higher-education');
+        return redirect()->route('doctor.profile.internship');
     }
 
     public function rules()

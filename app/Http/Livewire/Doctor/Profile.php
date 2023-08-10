@@ -20,7 +20,7 @@ class Profile extends Component
     public $passportCopy;
     public $personalImagePath;
     public $passportCopyPath;
-    public $user;
+    private $user;
     public $folder;
     public $nationalities;
     public $countries;

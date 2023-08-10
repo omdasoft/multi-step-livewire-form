@@ -53,6 +53,14 @@
             toastr.success(event.detail.message, 'Success');
             //$("#exampleModal").modal('show');
         });
+
+        window.addEventListener('delete_confirm', event => {
+            $("#deleteConfirm").modal('show');
+        });
+
+        window.addEventListener('hide_delete_confirm_modal', event => {
+            $("#deleteConfirm").modal('hide');
+        });
     </script>
     @livewireScripts
 </body>

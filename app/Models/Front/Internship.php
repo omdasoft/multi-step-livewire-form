@@ -4,6 +4,7 @@ namespace App\Models\Front;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use App\Models\Admin\Country;
 
 class Internship extends Model
 {
@@ -29,5 +30,15 @@ class Internship extends Model
     public function drProfile()
     {
       return $this->belongsTo(DrProfile::class, 'dr_profile_id');
+    }
+
+    public function country()
+    {
+      return $this->belongsTo(Country::class);
+    }
+
+    public function getIsCertifiedInternshipAttribute()
+    {
+      return $this->attributes['internship_certified'] == 1 ? 'Yes':'no';
     }
 }

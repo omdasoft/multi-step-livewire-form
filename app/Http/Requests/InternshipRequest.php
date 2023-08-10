@@ -22,14 +22,14 @@ class InternshipRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'internship.internship_certificate' => ['required'],
-            'internship.internship_training' => 'required',            
-            'internship.country_id' => 'required|exists:countries,id',            
-            'internship.hospital_name' => 'required|string|min:2|max:255',            
-            'internship.sector' => 'required',
-            'internship.duration' => 'required|int|max:11',
-            'internship.start_date' => 'required|date',
-            'internship.end_date' => 'required|date',            
+            'state.internship_certified' => ['required'],
+            'state.internship_training' => 'required',            
+            'state.country_id' => 'required|exists:countries,id',            
+            'state.hospital_name' => 'required|string|min:2|max:255',            
+            'state.sector' => 'required',
+            'state.duration' => 'required|int',
+            'state.start_date' => 'required|date',
+            'state.end_date' => 'required|date',  
         ];
     }
 }

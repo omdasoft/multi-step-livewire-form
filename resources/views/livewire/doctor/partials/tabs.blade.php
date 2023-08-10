@@ -1,4 +1,4 @@
-<ul class="nav nav-pills flex-column text-center profile-tabs">
+<ul class="nav nav-pills flex-column profile-tabs">
     @foreach($tabs as $id => $title)
         @php
             $isCompleted = match($id) {

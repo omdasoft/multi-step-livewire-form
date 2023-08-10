@@ -57,7 +57,7 @@
             </form>
         </div>
         <div class="col-md-2">
-            @include('livewire.doctor.partials.tabs', ['activeTab' => 'high-school']);
+            @include('livewire.doctor.partials.tabs');
         </div>
     </div>
 </div>
